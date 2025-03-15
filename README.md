@@ -1,1 +1,1 @@
-# Nimbus Skin - Upraven pro Stream Cinema Community
+# Nimbus Skin upraveno pro Stream Cinema Community

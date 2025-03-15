@@ -19,6 +19,10 @@
 				<pagecontrol>60</pagecontrol>
 				<ondown>610</ondown>
 				<visible>Container(9000).HasFocus(1)</visible>
+				<!-- poznamka -->
+				<control type="radiobutton" id="5001">
+					<label>DŮLEŽITÉ!!! Pro zachování funkčnosti skinu neupravuj seznam položek menu, skin byl vytvořen pouze pro účely SCC</label>
+				</control>
 				<control type="button" id="624">
 					<label>Remake menus and widgets</label>
 					<include>DefaultSettingButton</include>
